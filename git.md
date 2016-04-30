@@ -15,10 +15,12 @@ People who are new to both version control and to Git.
 
 * what is version control?
 * why would you need version control?
+
 > * scenarios
 > * student research paper
 > * writing code (program or html)
 > * confiuration files
+
 * installing git
 * setting user information (name, email)
 * viewing user configuration information
@@ -46,6 +48,11 @@ People who are new to both version control and to Git.
 
 ### Websites
 
+[https://git-scm.com][gitscm]
+
 ### Books
 
 ### Videos
+
+
+[gitscm]:https://git-scm.com
