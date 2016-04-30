@@ -1,4 +1,4 @@
-# brianstorm Git lesson
+# Lesson Plan: Git
 
 ## Audience
 
