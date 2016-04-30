@@ -2,9 +2,9 @@
 
 Unix, GNU/Linux, OS X version
 
-## SKA
+## Skills, Knowledge, Attitudes
 
-* know what is meant by command line
+* know what is meant by "command line"
 * know what a shell is
 * know what the terminal is
 * know what the terminal can be used for
