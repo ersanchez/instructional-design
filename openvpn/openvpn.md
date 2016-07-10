@@ -8,6 +8,9 @@ This is a rough outline of a lesson plan for an introduction to OpenVPN includin
 
 * familiar with Unix command line
 * know difference between TCP and UDP
+* know what an RFC is
+* know where to find RFCs
+* know encryption basics (TLS, ciphers, etc.)
 
 ### Knowledge items
 
@@ -26,11 +29,12 @@ This is a rough outline of a lesson plan for an introduction to OpenVPN includin
 * know the flow of information from the application --> tun --> OpenVPN --> ethernet adapter
 * know which transport protocol (TCP or UDP) to use with the VPN
 * know the purpose of the `ta.key`
-* know the 2 channels OpenVPN uses for client-server communication
+* know the 2 channels OpenVPN uses for client-server communication (control and data channel)
 
 ## References
 
 [openvpn.net][openvpn]
+
 Crist, Eric F., and Jan J. Keijser. Mastering Open VPN: Master Building and Integrating Secure Private Networks Using OpenVPN. Birmingham: Packt, 2015. Print.
 
 [openvpn]:https://openvpn.net/index.php/open-source.html
