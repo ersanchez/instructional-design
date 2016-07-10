@@ -82,12 +82,18 @@ _Note_ the removal of the hash/octothorpe (#) symbol from the beginning of the l
 * Continuing editing `var`: scroll down to the section that contains geographical information for the organizational unit. Un-comment these lines and put in information for your organization.
 * Create the file you just pointed to
 
-	$ sudo mkdir /usr/local/etc/easy-rsa
+	`$ sudo mkdir /usr/local/etc/easy-rsa`
 
 * From the unzipped EasyRSA directory, copy the `openssl-1.0.cnf` file and the `x509-types` directory to the new `/usr/local/etc/easy-rsa` directory
 
-	$ sudo cp openssl-1.0.cnf /usr/local/etc/easy-rsa
+	`$ sudo cp openssl-1.0.cnf /usr/local/etc/easy-rsa`
 	`$ sudo cp -r x509-types /usr/local/etc/easy-rsa`
+
+* From within the unzipped EasyRSA directory initialize the Easy-RSA public key infrastructure:
+
+
+	$ sudo ./easyrsa init-pki
+
 
 
 
