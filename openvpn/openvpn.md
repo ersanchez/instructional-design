@@ -63,12 +63,21 @@ If OpenVPN is not already installed, install it. On Ubuntu 14.04 and 16.04 you c
 
 On Ubuntu, the package manager will install OpenVPN in the `/usr/sbin/openvpn` directory. Configuration files for OpenVPN will be in the `/etc/openvpn` directory.
 
-Next you will install Easy-RSA to help create certificates.
+Next, install Easy-RSA to help create certificates.
 
 * Go to the Easy-RSA GitHub [releases][easyrsa] section.     
-* Scroll down to the **Downloads** section and click on the file named **EasyRSA-3.X.X._tgz_**
+* Scroll down to the **Downloads** section and click on the file named **EasyRSA-3._X.X_.tgz** where _X.X_ will be the most recent (read: highest) version number. Note the location where you save this file.
+* Navigate to the downloaded file and unzip it. You can do this through the GUI or by command line:
 
+	$ tar xvf EasyRSA-3.X.X.tgz   (note: use the file name on your computer)
 
+* Navigate to the unzipped EasyRSA directory
+* Copy the file named `vars.example` into a new file named `vars` - this `vars` file is the configuration file for EasyRSA that will be read every time EasyRSA is invoked.
+* Open the `vars` file in a text editor and find the line that reads `#set_var EASYRSA   "$PWD"`. This line tells EasyRSA where to put the files it creates. Use the text editor to change the file location to somewhere else. The author of EasyRSA recommends changing the line to something like:
+
+	set_var EASYRSA		"/usr/local/etc/easy-rsa"
+
+blah
 
 ## Notes
 
@@ -79,7 +88,7 @@ Make a CA directory using `make-cadir` - see
 
 [openvpn.net][openvpn]
 
-Crist, Eric F., and Jan J. Keijser. Mastering Open VPN: Master Building and Integrating Secure Private Networks Using OpenVPN. Birmingham: Packt, 2015. Print.
+Crist, Eric F., and Jan J. Keijser. _Mastering Open VPN: Master Building and Integrating Secure Private Networks Using OpenVPN_. Birmingham: Packt, 2015. Print.
 
 [openvpn]:https://openvpn.net/index.php/open-source.html
 [easyrsa]:https://github.com/OpenVPN/easy-rsa/releases
