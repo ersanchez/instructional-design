@@ -75,9 +75,12 @@ Next, install Easy-RSA to help create certificates.
 * Copy the file named `vars.example` into a new file named `vars` - this `vars` file is the configuration file for EasyRSA that will be read every time EasyRSA is invoked.
 * Open the `vars` file in a text editor and find the line that reads `#set_var EASYRSA   "$PWD"`. This line tells EasyRSA where to put the files it creates. Use the text editor to change the file location to somewhere else. The author of EasyRSA recommends changing the line to something like:
 
+
 	set_var EASYRSA		"/usr/local/etc/easy-rsa"
 
-blah
+_Note_ the removal of the hash/octothorpe (#) symbol from the beginning of the line.
+
+
 
 ## Notes
 
