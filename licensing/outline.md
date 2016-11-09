@@ -56,4 +56,22 @@ Examples:
 * Cite specific CC license (if applicable)
 * Mention if the work has been altered
 
+## Limited Use
+
+This license type is used when the content owner wants to restrict what the end user can do with the work. 
+
+As an example, a site like [iStockPhoto.com][istock] may use a license that defines certain limitations of use. The licensee can specify terms such as:
+
+* how many times the work can be used
+* whether or not the work can be sold
+* how the work can be used
+* medium in which the work can be used
+* time period
+* number of employees who can use the work (individual vs. multi-seat)
+* using the work in a logo
+* whether you can use the work after your license runs out
+
+
 ## Examples of Sites Catering to Different Licenses
+
+[istock]:https://istockphoto.com
