@@ -82,4 +82,15 @@ As an example, a site like [iStockPhoto.com][istock] may use a license that defi
 
 ## Examples of Sites Catering to Different Licenses
 
+* [flickr][f] - some photos are classified as Creative Commons
+* [pixabay][pix] - CC0 images and vector graphics
+* [unsplash][uns] - CC0 images
+* [Wikimedia Commons][wc] - Wikimedia Commons
+* [Free Music Archive][fma] - searchable by the different Creative Commons licenses
+
 [istock]:https://istockphoto.com
+[f]:https://flickr.com
+[pix]:https://pixabay.com
+[unsplash]:https://unsplash.com
+[wc]:https://commons.wikimedia.org/wiki/File:Supply_and_demand_curves.svg
+[fma]:http://freemusicarchive.org/
