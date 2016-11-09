@@ -41,6 +41,13 @@ Examples:
 
 ## Public Domain
 
+* Copyright has expired
+* Copyright has been intentionally relinquished
+* Purest form of free/open work
+* No owner
+* No controller
+* CC0
+
 ## Attribution
 
 * Include copyright and notices
