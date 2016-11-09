@@ -27,6 +27,26 @@ The following adders can be used to fine tune the rights that a copyright holder
 * **Non-Commercial (NC)** - ok to copy, distribute, display, perform ...**NOT OK** to sell
 * **No Derivatives (ND)** - Ok only to use verbatim copies - no changes are authorized
 
+Combinations of these adders can be used to fine-tune the rights granted to the end user. 
+
+Examples:
+
+* CC0
+* CC-BY
+* CC-BY-SA
+* CC-BY-NC
+* CC-BY-ND
+* CC-BY-NC-SA
+* CC-BY-NC-ND
+
 ## Public Domain
+
+## Attribution
+
+* Include copyright and notices
+* Cite author's name
+* Cite name or title of work
+* Cite specific CC license (if applicable)
+* Mention if the work has been altered
 
 ## Examples of Sites Catering to Different Licenses
