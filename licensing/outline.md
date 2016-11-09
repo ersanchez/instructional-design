@@ -1,4 +1,4 @@
-CC-BY Eduardo Sanchez
+CC0 Eduardo Sanchez
 
 # Licensing Overview
 
