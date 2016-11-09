@@ -7,6 +7,14 @@ CC-BY Eduardo Sanchez
 * **Copyright** - rights held by the author/creator of an original work
 * **License** - rights and privileges that a copyright holder grants to an end user
 
+Using copyrighted material without a license could result in a lawsuit which could cost your organization a lot of money.
+
+Make sure all multimedia you use in your materials have a permissive license or make sure you have purchased a license to the works.
+
+## Copyright and Creation
+
+Works are automatically protected by copyright when they are created.
+
 ## Licence Types for Multimedia
 
 * Public domain
