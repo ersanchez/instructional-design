@@ -47,6 +47,10 @@ Examples:
 * CC-BY-NC-SA
 * CC-BY-NC-ND
 
+Job Aid: [Unpacking Creative Commons Licenses][unpack]
+
+Video: [Creative Commons Kiwi][kiwi] 5:32 
+
 ## Public Domain
 
 * Copyright has expired
@@ -88,9 +92,16 @@ As an example, a site like [iStockPhoto.com][istock] may use a license that defi
 * [Wikimedia Commons][wc] - Wikimedia Commons
 * [Free Music Archive][fma] - searchable by the different Creative Commons licenses
 
+## References
+
+[Introducing Copyright: A plain language guide to copyright in the 21st century][introcopy]
+
 [istock]:https://istockphoto.com
 [f]:https://flickr.com
 [pix]:https://pixabay.com
 [unsplash]:https://unsplash.com
 [wc]:https://commons.wikimedia.org/wiki/File:Supply_and_demand_curves.svg
 [fma]:http://freemusicarchive.org/
+[unpack]:https://vtechworks.lib.vt.edu/bitstream/handle/10919/64276/Unpacking%20Creative%20Commons%20Licenses%20%282015%29.pdf?sequence=2&isAllowed=y
+[kiwi]:https://creativecommons.org/about/videos/creative-commons-kiwi/
+[introcopy]:http://oasis.col.org/handle/11599/65
