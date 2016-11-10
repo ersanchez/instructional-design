@@ -25,7 +25,7 @@ Avoid violating copyright law by following these steps:
 * Provide attribution ...more on this later on
 * Use it responsibly
 
-Note this section is based on the Pacada's presentation[^pacada]
+Note this section is based on the <a name="Pacada's presentation">1</a>
 
 ## Licence Types for Multimedia
 
@@ -109,7 +109,7 @@ Job Aid: [Unpacking Creative Commons Licenses][unpack]
 
 Video: [Creative Commons Kiwi][kiwi] 5:32 
 
-[^pacada]:Presentation: [Copyright, Fair Use & Creative Commons by Genevieve Pacada][gp]
+<sup>[1](Pacada)</sup>: [Copyright, Fair Use & Creative Commons by Genevieve Pacada][gp]
 
 [istock]:https://istockphoto.com
 [f]:https://flickr.com
