@@ -15,6 +15,18 @@ Make sure all multimedia you use in your materials have a permissive license or 
 
 Works are automatically protected by copyright when they are created.
 
+## Staying out of Trouble
+
+Avoid violating copyright law by following these steps:
+
+* Check who owns the work
+* Ask for permission to use the work
+* Buy a license (if required)
+* Provide attribution ...more on this later on
+* Use it responsibly
+
+Note this section is based on the Pacada's presentation[^pacada]
+
 ## Licence Types for Multimedia
 
 * Public domain
@@ -47,9 +59,6 @@ Examples:
 * CC-BY-NC-SA
 * CC-BY-NC-ND
 
-Job Aid: [Unpacking Creative Commons Licenses][unpack]
-
-Video: [Creative Commons Kiwi][kiwi] 5:32 
 
 ## Public Domain
 
@@ -96,6 +105,12 @@ As an example, a site like [iStockPhoto.com][istock] may use a license that defi
 
 [Introducing Copyright: A plain language guide to copyright in the 21st century][introcopy]
 
+Job Aid: [Unpacking Creative Commons Licenses][unpack]
+
+Video: [Creative Commons Kiwi][kiwi] 5:32 
+
+[^pacada]:Presentation: [Copyright, Fair Use & Creative Commons by Genevieve Pacada][gp]
+
 [istock]:https://istockphoto.com
 [f]:https://flickr.com
 [pix]:https://pixabay.com
@@ -105,3 +120,4 @@ As an example, a site like [iStockPhoto.com][istock] may use a license that defi
 [unpack]:https://vtechworks.lib.vt.edu/bitstream/handle/10919/64276/Unpacking%20Creative%20Commons%20Licenses%20%282015%29.pdf?sequence=2&isAllowed=y
 [kiwi]:https://creativecommons.org/about/videos/creative-commons-kiwi/
 [introcopy]:http://oasis.col.org/handle/11599/65
+[gp]:https://www.oercommons.org/courses/copyright-fair-use-and-creative-commons
