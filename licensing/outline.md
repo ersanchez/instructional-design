@@ -92,6 +92,9 @@ As an example, a site like [iStockPhoto.com][istock] may use a license that defi
 * using the work in a logo
 * whether you can use the work after your license runs out
 
+For example, check out this statement about when you can use stockpiled images from [iStockPhoto.com][ilic]:
+
+> "...subscription licenses only remain valid if you use your file in a project within 30 days of your subscription ending"
 
 ## Examples of Sites Catering to Different Licenses
 
@@ -113,7 +116,10 @@ Video: [Creative Commons Kiwi][kiwi] 5:32
 
 Pacada: [Copyright, Fair Use & Creative Commons by Genevieve Pacada][gp]
 
+Creative Commons Infographic: [Fotor.com][foter]
+
 [istock]:https://istockphoto.com
+[ilic]:https://istockphoto.com/help/licenses
 [f]:https://flickr.com
 [pix]:https://pixabay.com
 [uns]:https://unsplash.com
@@ -127,3 +133,4 @@ Pacada: [Copyright, Fair Use & Creative Commons by Genevieve Pacada][gp]
 [lightning]:https://www.brandeps.com/icon/L/Lightning-01
 [buildings]:https://www.pixabay.com/en/apartment-houses-brick-buildings-159414
 [puppy]:https://commons.wikimedia.org/wiki/File:Boxer_puppy_fawn.jpg
+[fotor]:http://foter.com/blog/how-to-attribute-creative-commons-photos/
