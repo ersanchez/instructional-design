@@ -87,7 +87,7 @@ The following adders can be used to fine tune the rights that a copyright holder
 
 Combinations of these adders can be used to fine-tune the rights granted to the end user. 
 
-Examples:
+#### Examples:
 
 * CC0
 * CC-BY
