@@ -15,69 +15,11 @@ Make sure all multimedia you use in your materials have a permissive license or 
 
 Works are automatically protected by copyright when they are created - even if not explicitly indicated. It is automatic.
 
-## Staying out of Trouble
-
-Avoid violating copyright law by following these steps:
-
-* Check who owns the work
-* Ask for permission to use the work
-* Buy a license (if required)
-* Provide attribution ...more on this later on
-* Use it responsibly
-
-Note this section is based on the Pacada's presentation noted in the References section.
-
-[Copyright law (U.S. Code &sect; 504)][copy] states that "...an infringer of copyright is liable for either (1) the copyright owner's actual damages ...or (2) statuatory damages." These statuatory damages can go up to $150,000 per infringement. Attornees fees are added on top of that.
-
 ## Licence Types for Multimedia
 
 * Public domain
 * Creative Commons
 * Limited use
-
-## Creative Commons (CC)
-
-* Varying levels of granting rights to the end user
-
-### CC License Adders
-
-The following adders can be used to fine tune the rights that a copyright holder can grant to an end user. They are listed from most-free to most-limiting.
-
-* **Public Domain (CC0)** - Creator allows full freedom to use the work in any way the end user sees fit - not limited at all.
-* **Attribution (BY)** - Ok to copy, distribute, display, perform as long as creator is credited
-* **Share-Alike (SA)** - Any derivative works must use the same license type as the original content
-* **Non-Commercial (NC)** - ok to copy, distribute, display, perform ...**NOT OK** to sell
-* **No Derivatives (ND)** - Ok only to use verbatim copies - no changes are authorized
-
-Combinations of these adders can be used to fine-tune the rights granted to the end user. 
-
-Examples:
-
-* CC0
-* CC-BY
-* CC-BY-SA
-* CC-BY-NC
-* CC-BY-ND
-* CC-BY-NC-SA
-* CC-BY-NC-ND
-
-
-## Public Domain
-
-* Copyright has expired
-* Copyright has been intentionally relinquished
-* Purest form of free/open work
-* No owner
-* No controller
-* CC0
-
-## Attribution
-
-* Include copyright and notices
-* Cite author's name
-* Cite name or title of work
-* Cite specific CC license (if applicable)
-* Mention if the work has been altered
 
 ## Limited Use
 
@@ -106,6 +48,66 @@ Here is another confusingly-worded restriction from [eLearningBrothers][ebros] i
 Here is another blurb from [eLearningBrothers][multi] about multi-users:
 
 > "...if you purchased a 1-user license, then only one designer is allowed to access and download templates. Also, only 1 designer is allowed to use the templates to create content."
+
+## Staying out of Trouble
+
+Avoid violating copyright law by following these steps:
+
+* Check who owns the work
+* Ask for permission to use the work
+* Buy a license (if required)
+* Provide attribution ...more on this later on
+* Use it responsibly
+
+Note: these steps are based on Pacada's presentation noted in the References section.
+
+[Copyright law (U.S. Code &sect; 504)][copy] states that "...an infringer of copyright is liable for either (1) the copyright owner's actual damages ...or (2) statuatory damages." These statuatory damages can go up to $150,000 per infringement. Attornees fees are added on top of that.
+
+## Creative Commons (CC)
+
+* Varying levels of granting rights to the end user
+
+### CC License Adders
+
+The following adders can be used to fine tune the rights that a copyright holder can grant to an end user. They are listed from most-free to most-limiting.
+
+* **Public Domain (CC0)** - Creator allows full freedom to use the work in any way the end user sees fit - not limited at all.
+* **Attribution (BY)** - Ok to copy, distribute, display, perform as long as creator is credited
+* **Share-Alike (SA)** - Any derivative works must use the same license type as the original content
+* **Non-Commercial (NC)** - ok to copy, distribute, display, perform ...**NOT OK** to sell
+* **No Derivatives (ND)** - Ok only to use verbatim copies - no changes are authorized
+
+Combinations of these adders can be used to fine-tune the rights granted to the end user. 
+
+Examples:
+
+* CC0
+* CC-BY
+* CC-BY-SA
+* CC-BY-NC
+* CC-BY-ND
+* CC-BY-NC-SA
+* CC-BY-NC-ND
+
+
+## Attribution
+
+* Include copyright and notices
+* Cite author's name
+* Cite name or title of work
+* Cite specific CC license (if applicable)
+* Mention if the work has been altered
+
+Creative Commons [Best practices for attribution][bpa]
+
+## Public Domain
+
+* Copyright has expired
+* Copyright has been intentionally relinquished
+* Purest form of free/open work
+* No owner
+* No controller
+* CC0
 
 ## Examples of Sites Catering to Different Licenses
 
@@ -148,3 +150,4 @@ Creative Commons Infographic: [Foter.com][foter]
 [ebros]:https://library.elearningbrothers.com/terms/#Stock
 [multi]:https://library.elearningbrothers.com/terms/#Subscribers
 [copy]:https://www.copyright.gov/title17/92chap5.html#504
+[bpa]:https://wiki.creativecommons.org/wiki/best_practices_for_attribution
