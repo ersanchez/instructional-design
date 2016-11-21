@@ -2,6 +2,12 @@ CC0 Eduardo Sanchez
 
 # Licensing Overview
 
+## Why this is important
+
+Anyone who uses works created by others needs to know some basic facts surrounding copyright and licensing. It is important to make sure that sufficient rights are obtained from the creator of the work before using it.
+
+[Copyright law (U.S. Code &sect; 504)][copy] states that "...an infringer of copyright is liable for either (1) the copyright owner's actual damages ...or (2) statuatory damages." These statuatory damages can go up to $150,000 per infringement. Attornees fees are added on top of that.
+
 ## Copyright vs. Licensing
 
 * **Copyright** - rights held by the author/creator of an original work
@@ -15,7 +21,7 @@ Make sure all multimedia you use in your materials have a permissive license or 
 
 Works are automatically protected by copyright when they are created - even if not explicitly indicated. It is automatic.
 
-[Copyright lasts][last] "...the life of the author plus and additional 70 years." There are also different time spans based on anonymous works and based on when the work was published.
+Copyright lasts [according to the U.S. Copyright Office][last] "...the life of the author plus and additional 70 years." There are also different time spans based on anonymous works and based on when the work was published.
 
 ## Licence Types for Multimedia
 
@@ -63,7 +69,7 @@ Avoid violating copyright law by following these steps:
 
 Note: these steps are based on Pacada's presentation noted in the References section.
 
-[Copyright law (U.S. Code &sect; 504)][copy] states that "...an infringer of copyright is liable for either (1) the copyright owner's actual damages ...or (2) statuatory damages." These statuatory damages can go up to $150,000 per infringement. Attornees fees are added on top of that.
+
 
 ## Creative Commons (CC)
 
