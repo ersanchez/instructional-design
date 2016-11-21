@@ -125,7 +125,7 @@ Video: [Creative Commons Kiwi][kiwi] 5:32
 
 Pacada: [Copyright, Fair Use & Creative Commons by Genevieve Pacada][gp]
 
-Creative Commons Infographic: [Fotor.com][foter]
+Creative Commons Infographic: [Foter.com][foter]
 
 [istock]:https://istockphoto.com
 [ilic]:https://istockphoto.com/help/licenses
@@ -142,6 +142,6 @@ Creative Commons Infographic: [Fotor.com][foter]
 [lightning]:https://www.brandeps.com/icon/L/Lightning-01
 [buildings]:https://www.pixabay.com/en/apartment-houses-brick-buildings-159414
 [puppy]:https://commons.wikimedia.org/wiki/File:Boxer_puppy_fawn.jpg
-[fotor]:http://foter.com/blog/how-to-attribute-creative-commons-photos/
+[foter]:http://foter.com/blog/how-to-attribute-creative-commons-photos/
 [ebros]:https://library.elearningbrothers.com/terms/#Stock
 [multi]:https://library.elearningbrothers.com/terms/#Subscribers
