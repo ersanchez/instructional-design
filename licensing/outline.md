@@ -91,10 +91,19 @@ As an example, a site like [iStockPhoto.com][istock] may use a license that defi
 * number of employees who can use the work (individual vs. multi-seat)
 * using the work in a logo
 * whether you can use the work after your license runs out
+* audit / certificat of compliance - provide a list of "projects or end uses that contain licensed content"
 
 For example, check out this statement about when you can use stockpiled images from [iStockPhoto.com][ilic]:
 
 > "...subscription licenses only remain valid if you use your file in a project within 30 days of your subscription ending"
+
+Here is another confusingly-worded restriction from [eLearningBrothers][ebros] in their Stock Library Subscription Users section:
+
+> "Licensee's users shall not print, sell or use the image for any marketing, advertising, logo, social media or any website purposes."
+
+Here is another blurb from [eLearningBrothers][multi] about multi-users:
+
+> "...if you purchased a 1-user license, then only one designer is allowed to access and download templates. Also, only 1 designer is allowed to use the templates to create content."
 
 ## Examples of Sites Catering to Different Licenses
 
@@ -134,3 +143,5 @@ Creative Commons Infographic: [Fotor.com][foter]
 [buildings]:https://www.pixabay.com/en/apartment-houses-brick-buildings-159414
 [puppy]:https://commons.wikimedia.org/wiki/File:Boxer_puppy_fawn.jpg
 [fotor]:http://foter.com/blog/how-to-attribute-creative-commons-photos/
+[ebros]:https://library.elearningbrothers.com/terms/#Stock
+[multi]:https://library.elearningbrothers.com/terms/#Subscribers
