@@ -13,7 +13,7 @@ Make sure all multimedia you use in your materials have a permissive license or 
 
 ## Copyright and Creation
 
-Works are automatically protected by copyright when they are created.
+Works are automatically protected by copyright when they are created - even if not explicitly indicated. It is automatic.
 
 ## Staying out of Trouble
 
@@ -26,6 +26,8 @@ Avoid violating copyright law by following these steps:
 * Use it responsibly
 
 Note this section is based on the Pacada's presentation noted in the References section.
+
+[Copyright law (U.S. Code &sect; 504)][copy] states that "...an infringer of copyright is liable for either (1) the copyright owner's actual damages ...or (2) statuatory damages." These statuatory damages can go up to $150,000 per infringement. Attornees fees are added on top of that.
 
 ## Licence Types for Multimedia
 
@@ -145,3 +147,4 @@ Creative Commons Infographic: [Foter.com][foter]
 [foter]:http://foter.com/blog/how-to-attribute-creative-commons-photos/
 [ebros]:https://library.elearningbrothers.com/terms/#Stock
 [multi]:https://library.elearningbrothers.com/terms/#Subscribers
+[copy]:https://www.copyright.gov/title17/92chap5.html#504
