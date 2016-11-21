@@ -98,7 +98,7 @@ As an example, a site like [iStockPhoto.com][istock] may use a license that defi
 * [flickr][f] - some photos are classified as Creative Commons
 * [pixabay][pix] - CC0 images and vector graphics ([WEM201][buildings])
 * [unsplash][uns] - CC0 images
-* [Wikimedia Commons][wc] - Wikimedia Commons
+* [Wikimedia Commons][wc] - vector graphics and [images][puppy]
 * [Free Music Archive][fma] - searchable by the different Creative Commons licenses
 * [BrandEPS][lightning] - logos and other content of varying licenses (EPS=encapsulated PostScript)
 * [CreativeTail][creative] - art of varying licenses
@@ -123,6 +123,7 @@ Pacada: [Copyright, Fair Use & Creative Commons by Genevieve Pacada][gp]
 [kiwi]:https://creativecommons.org/about/videos/creative-commons-kiwi/
 [introcopy]:http://oasis.col.org/handle/11599/65
 [gp]:https://www.oercommons.org/courses/copyright-fair-use-and-creative-commons
-[creative]:https://www.createivetail.com/licensing
+[creative]:https://www.creativetail.com/licensing
 [lightning]:https://www.brandeps.com/icon/L/Lightning-01
 [buildings]:https://www.pixabay.com/en/apartment-houses-brick-buildings-159414
+[puppy]:https://commons.wikimedia.org/wiki/File:Boxer_puppy_fawn.jpg
