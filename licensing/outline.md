@@ -15,11 +15,13 @@ Make sure all multimedia you use in your materials have a permissive license or 
 
 Works are automatically protected by copyright when they are created - even if not explicitly indicated. It is automatic.
 
+[Copyright lasts][last] "...the life of the author plus and additional 70 years." There are also different time spans based on anonymous works and based on when the work was published.
+
 ## Licence Types for Multimedia
 
-* Public domain
-* Creative Commons
-* Limited use
+* Limited Use
+* Creative Commons - some restrictions
+* Public domain- no restrictions
 
 ## Limited Use
 
@@ -65,7 +67,7 @@ Note: these steps are based on Pacada's presentation noted in the References sec
 
 ## Creative Commons (CC)
 
-* Varying levels of granting rights to the end user
+* Different levels of rights granted to the end user
 
 ### CC License Adders
 
@@ -90,7 +92,7 @@ Examples:
 * CC-BY-NC-ND
 
 
-## Attribution
+### Attribution
 
 * Include copyright and notices
 * Cite author's name
@@ -108,6 +110,8 @@ Creative Commons [Best practices for attribution][bpa]
 * No owner
 * No controller
 * CC0
+
+Read more about the subtle differences between CC0 and Public Domain Mark [here][pdm].
 
 ## Examples of Sites Catering to Different Licenses
 
@@ -151,3 +155,5 @@ Creative Commons Infographic: [Foter.com][foter]
 [multi]:https://library.elearningbrothers.com/terms/#Subscribers
 [copy]:https://www.copyright.gov/title17/92chap5.html#504
 [bpa]:https://wiki.creativecommons.org/wiki/best_practices_for_attribution
+[last]:http://www.copyright.gov/help/faq/faq-duration.html#duration
+[pdm]:https://wiki.creativecommons.org/wiki/CC0_PDM_comparison_chart
