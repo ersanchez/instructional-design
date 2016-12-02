@@ -80,3 +80,6 @@ Unix, GNU/Linux, OS X version
 * know what a terminal is
 * know what a shell is
 * know how to use command line auto-completion
+* know how to scroll forward or backward
+* know how to view output one screen at a time
+* know how to advance or retreat one line at a time
