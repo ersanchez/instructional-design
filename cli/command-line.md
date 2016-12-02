@@ -75,3 +75,8 @@ Unix, GNU/Linux, OS X version
 * know how to navigate to your home directory
 * know basic filesystem hierarchy standard (FSH) conventions
 * know how to navigate to the previous location
+* know what a prompt is
+* know what a prompt can tell you
+* know what a terminal is
+* know what a shell is
+* know how to use command line auto-completion
