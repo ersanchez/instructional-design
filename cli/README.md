@@ -1,4 +1,4 @@
-# Lesson Plan for Basic Command Line Interface (CLI)
+# Introduction to the Command Line Interface (CLI)
 
 ## Audience
 
