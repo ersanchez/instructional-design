@@ -9,6 +9,7 @@ Unix, GNU/Linux, OS X version
 * know what the terminal is
 * know what the terminal can be used for
 * know why learning the terminal is important
+* know how to open a terminal
 * know that most server administration is via cli
 * know how to navigate to the terminal
 * know the difference between a single and multiple user system
