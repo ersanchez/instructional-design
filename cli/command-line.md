@@ -29,6 +29,7 @@ Unix, GNU/Linux, OS X version
 * know shortcuts for the home directory
 * know how to copy a file
 * know how to move a file
+* know how to rename a file
 * know the difference between copy and move
 * know how to delete a file
 * know how to delete a directory
@@ -49,3 +50,27 @@ Unix, GNU/Linux, OS X version
 * know how to use tab completion
 * know how to use globbing
 * know what environment variables are
+* know what an alias is
+* know how to cancel a command
+* know how to repeat a command
+* know how to repeat a command with higher permissions
+* know about user permissions
+* know how to change user permissions
+* know about group permissions
+* know how to change group permissions
+* know how to make a new folder or directory
+* know how to create a blank file
+* know how to execute a file
+* know how to look at the contents of a file
+* know the difference between a text file and a binary file
+* know how the unix philosophy of programs doing one thing well is combined with pipes
+* know how to read a man page
+* know how to make a link to a file
+* know how to make a shortcut to a file
+* know the difference between a soft link and a hard link
+* know what makes a file a "hidden" file
+* know how to list files
+* know how to list hidden files
+* know how to navigate to your home directory
+* know basic filesystem hierarchy standard (FSH) conventions
+* know how to navigate to the previous location
