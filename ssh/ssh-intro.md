@@ -12,13 +12,15 @@
 * Why would someone use OpenSSH?
 * What can I do with SSH? (log into remote computer, log into local headless computer, hop to other computers, redirect web traffic, view screen of a remote computer, etc. ...need some more examples here)
 * What is a client and what is a server?
+* How does SSH work?
 * Where can I get OpenSSH?
 * How do I install OpenSSH?
 * How can I tell which version of OpenSSH I am using?
 * What is the difference between SSH protocol 1 and SSH protocol 2?
 * how does public key encryption work?
 * how many keys will I have?
-* where do I put my SSH keys?
+* how do I make my SSH keys?
+* where do I put my SSH keys? Can I put them somewhere else?
 * is there any required permission mode for my keys or directories inside $HOME/.ssh?
 * what is the difference between a public key and a private key?
 * where are the configuration files for my SSH client?
@@ -39,6 +41,7 @@
 * securing your private ssh key
 * passphrase or no passphrase?
 * does the remote server see my passphrase? (does my passphrase go outside my computer?)
+* do I have to enter my passphrase _every_ time I want to connect? (ssh-agent)
 * what do I type on the command line to access an SSH server?
 * how do I load my public ssh key onto the server?
 * how can I be sure that the server that I am connecting to is the real server and not some man-in-the-middle? (known_hosts)
