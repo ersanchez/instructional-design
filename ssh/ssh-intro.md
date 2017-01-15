@@ -7,14 +7,18 @@
 ## Skills, Knowledge, Attitudes
 
 * willingness to learn new things
-* What is OpenSSH?
+* What is OpenSSH? Where does it come from?
 * Why would someone use OpenSSH?
 * What is a client and what is a server?
 * Where can I get OpenSSH?
 * How do I install OpenSSH?
+* How can I tell which version of OpenSSH I am using?
 * how does public key encryption work?
 * how many keys will I have?
+* where do I put my SSH keys?
+* is there any required permission mode for my keys or directories inside $HOME/.ssh?
 * what is the difference between a public key and a private key?
+* where are the configuration files for my SSH client?
 * types of ssh keys (RSA, DSA, ed25519, ecdsa)
 * how to pick which type of key to make 
 
@@ -33,5 +37,11 @@
 * passphrase or no passphrase?
 * does the remote server see my passphrase? (does my passphrase go outside my computer?)
 * how do I load my public ssh key onto the server?
+* how can I be sure that the server that I am connecting to is the real server and not some man-in-the-middle? (known_hosts)
+* how can I see the fingerprint of an SSH key?
 * how can I remove my public key from a server?
 * what do I do if my private key gets out in the wild?
+* how can I set up different key pairs for each server I want to connect to? 
+* how can I configure more than one account on a server I want to connect to?
+* how do I configure my SSH server to allow me to connect?
+* where are the configuration files for my SSH server?
