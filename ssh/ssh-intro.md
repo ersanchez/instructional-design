@@ -10,14 +10,16 @@
 * some familiarity with the command line
 * What is OpenSSH? Where does it come from?
 * Why would someone use OpenSSH?
-* What can I do with SSH? (log into remote computer, log into local headless computer, hop to other computers, redirect web traffic, view screen of a remote computer, etc. ...need some more examples here)
+* What can I do with SSH? (log into remote computer, log into local headless computer, hop to other computers, redirect web traffic, view screen of a remote computer, SSH VPN, etc. ...need some more examples here)
 * What is a client and what is a server?
 * How does SSH work?
 * Where can I get OpenSSH?
 * How do I install OpenSSH?
 * How can I tell which version of OpenSSH I am using?
 * What is the difference between SSH protocol 1 and SSH protocol 2?
+* what are the main configuration files for an OpenSSH client?
 * how does public key encryption work?
+* do I have to use keys? Is there something else I can use? (certificates - out of scope of this project)
 * how many keys will I have?
 * how do I make my SSH keys?
 * where do I put my SSH keys? Can I put them somewhere else?
@@ -54,3 +56,4 @@
 * how can I configure my SSH client to connect to an SSH server on a non-standard (not port 22) port?
 * how do I configure my SSH server to allow me to connect?
 * where are the configuration files for my SSH server?
+* How can I configure my SSH server to disallow passwords and **only** allow SSH keys?
