@@ -27,6 +27,18 @@ Wait time number 2 is the time after a learner provides an answer before you say
 
 ## Benefits of Wait Times
 
+Studies have shown that using wait times leads to:
+
+* more responses
+* better responses
+* better comprehension
+* a slower class pace that may be easier for everyone to follow
+* learners listening more closely to each other
+* more time for learners to think
+* less failed answers
+* more time to apply logic
+* weaker students interacting more
+
 # Implementing Wait Times
 
 Here is an example flow of a question and answer sequence:
