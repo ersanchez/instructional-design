@@ -61,6 +61,7 @@ Here is an example flow of a question and answer sequence:
 * Don't make a face. 
 * Be passive.
 * Saying anything after you ask your question will mess everything up!
+* **DO NOT ANSWER YOUR OWN QUESTION!!!**
 
 ## Begin Wait Time \#1
 
@@ -85,6 +86,13 @@ You will be _soooo_ tempted to say something during this awkward silence. DON'T!
 Some learner (hopefully many) will start to raise their hands to answer the question. The awkward silence might even compell one or more of them to blurt out an answer unprompted.
 
 If all you see is raised hands, call on someone.
+
+If no one knows or volunteers to answer there may be something wrong.
+
+* Your question was too vague (you _did_ prepare this in advance, right?!?)
+* You have created a hostile classroom culture that discourages discussion
+* Maybe you didn't explain the content as well as you planned
+* You misjudged your learner's' prior knowledge
 
 ## Begin Wait Time \#2
 
