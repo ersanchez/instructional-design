@@ -68,11 +68,11 @@ Many things are going through the learners' minds right after you ask your quest
 * gathering courage to answer
 * trying to avoid your gaze
 
-You will be _so_ tempted to say something during this awkward silence. DON'T! You'll mess up your learners' thoughts. Just be quiet.
+You will be _soooo_ tempted to say something during this awkward silence. DON'T! You'll mess up your learners' thoughts. Just be quiet!
 
 ## Student Response
 
-Some learner (hopefully many) will start to raise their hands to answer the question. The awkward silence might even compell one or more of them to shout out an answer unprompted.
+Some learner (hopefully many) will start to raise their hands to answer the question. The awkward silence might even compell one or more of them to blurt out an answer unprompted.
 
 If all you see is raised hands, call on someone.
 
@@ -84,15 +84,35 @@ Do not react to the learner's response.
 * Don't say anything.
 * Be passive.
 * Be silent!
-* Do not provide any indication of the learner being right or wrong.
+* **Do not provide any indication** of the learner being right or wrong.
 * Embrace the awkwardness again - this is tough!
 
 ### Students Will Keep Thinking
+
+Shut your mouth and watch this happen.
 
 The original answerer will most likely:
 
 * add to their original answer
 * explain their answer
 * _maybe even_ change their answer
+* defend their answer
+
+Other learners will 
+
+* listen to the answer provided
+* decide to agree or disagree with it
+* formulate an alternative answer
+* add to the original answer
+* debate the original responder (yes!)
+* backup the original responder
+
+Boom! Your class just got interactive. 
+
+## Now Say Something
+
+Follow up on the answer provided. 
+
+Provide an answer or redirect to another learner to answer. 
 
 # Conclusion
