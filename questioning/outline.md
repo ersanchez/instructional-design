@@ -45,6 +45,14 @@ Studies have shown that using wait times leads to:
 
 Here is an example flow of a question and answer sequence:
 
+1. Ask your question
+2. Begin wait time \#1
+3. Get a learner response
+4. Begin wait time \#2
+5. Provide feedback
+
+# Detailed Description of Using Wait Times
+
 ## Ask Your Question
 
 * Ask a prepared question that is answerable.
@@ -72,7 +80,7 @@ Many things are going through the learners' minds right after you ask your quest
 
 You will be _soooo_ tempted to say something during this awkward silence. DON'T! You'll mess up your learners' thoughts. Just be quiet!
 
-## Student Response
+## Get a Learner Response
 
 Some learner (hopefully many) will start to raise their hands to answer the question. The awkward silence might even compell one or more of them to blurt out an answer unprompted.
 
@@ -117,7 +125,7 @@ You will:
 
 Boom! Your class just got interactive. 
 
-## Now Say Something
+## Provide Feedback
 
 Follow up on the answer provided. 
 
