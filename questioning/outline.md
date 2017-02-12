@@ -1,3 +1,5 @@
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
 # Introduction - WIIFM
 
 * Have you ever taught a course where there was no interaction whatsoever?
@@ -107,6 +109,12 @@ Other learners will
 * debate the original responder (yes!)
 * backup the original responder
 
+You will:
+
+* listen to the discussion
+* have time to formulate a response tailored to the discussion
+* enjoy hearing your class almost teach itself!
+
 Boom! Your class just got interactive. 
 
 ## Now Say Something
@@ -116,3 +124,13 @@ Follow up on the answer provided.
 Provide an answer or redirect to another learner to answer. 
 
 # Conclusion
+
+The simple act of waiting has many benefits for your learners. Start waiting! 
+
+Prepare your questions ahead of class. 
+
+Don't try to "wing it" - you will suck. Your learners will suffer.
+
+Once you get past the awkwardness and realize that your learners are actually _learning_ you will want to ask more questions and wait longer. Like magic, you'll get more learners reinforcing and guiding each other toward better learning.
+
+Now, go share this with someone else!
