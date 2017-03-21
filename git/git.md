@@ -43,6 +43,7 @@ People who are new to both version control and to Git.
 * create a new branch
 * types of merges (fast forward vs recursive)
 * merge a branch with the master repository
+* convert an https repository to ssh ("git@github.com:$USER/$REPO.git")
 
 ## Where to go for more information
 
