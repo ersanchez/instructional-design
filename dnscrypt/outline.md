@@ -6,6 +6,7 @@ GNU/Linux users who want to encrypt domain name system (DNS) requests so their I
 
 ## Prerequisites
 
+* have a up-to-date version of GNU/Linux
 * basic understanding of the purpose and operation of DNS
 * able to update and install software from the command line
 * can change system settings via the graphical user interface
