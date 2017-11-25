@@ -9,9 +9,10 @@ The objectives follow the ABCD model where:
 
 The objectives are all written for the audience described below:
 
->This course is intended for experienced computer users who are familiar with performing basic tasks (create/delete files and directories, more around the filesystem, etc.) using a graphical user interface who are now required to perform those basic tasks using only the command line.
+>This course is intended for computer users who are experienced using the graphical user interface to perform basic tasks (create/delete files and directories, more around the filesystem, etc.) who are now required to perform those basic tasks using only the command line without a graphical user interface.
 
 ## Cognitive Objectives
+
 
 
 ## Performance Objectives
