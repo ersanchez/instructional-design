@@ -13,7 +13,16 @@ The objectives are all written for the audience described below:
 
 ## Cognitive Objectives
 
-
+* recall the purpose of the command line
+* describe the difference between the command line and a graphical user interface
+* describe the scenarios in which the command line is useful
+* recall the purpose of the terminal emulator application
+* recall that unix-like systems are case-sensitive
+* describe the layout of the unix directory tree
+* explain the difference between copying and moving a file
+* explain the condition a directory must be in normally before deleting it
+* identify the major components of the default Bash prompt
+* identify the part of the Bash prompt that changes when you change directory
 
 ## Performance Objectives
 
