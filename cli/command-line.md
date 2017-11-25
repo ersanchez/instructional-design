@@ -63,8 +63,6 @@ Unix, GNU/Linux, OS X version
 * display the present working directory
 * know and use shortcuts for the home directory
 * find files
-* combine two or more unix commands
-* use grep
 * execute a file
 * create a file archive
 * compress a file or files
@@ -94,3 +92,15 @@ Unix, GNU/Linux, OS X version
 * scroll forward or backward
 * view output one screen at a time
 * advance or retreat one line at a time
+
+### Advanced
+
+* combine two or more unix commands
+* know when performing commands as a higher-permission user may be necessary
+* use `sudo` to perform tasks as a user with a higher permission level
+* know what a file owner is
+* know what a file group is
+* know how the letters in a long-listing of files describe the permissions of files and directories
+* change the owner of a file
+* change the group of a file
+* describe the permissions of a file
