@@ -6,7 +6,7 @@ Intermediate computer users who have used graphical user interfaces on operating
 
 This course applies to any Unix-like operating systems like the BSD Unix systems, MacOS, and GNU/Linux.
 
-## Terminal Learning Objectives
+## Terminal Learning Objective
 
 Note: more detailed objectives will be in a separate file.
 
