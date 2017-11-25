@@ -19,7 +19,6 @@ Unix, GNU/Linux, OS X version
 * know the difference between a single and multiple user system
 * know your username and password
 * know about case sensitivity
-* log into the command line
 * know the general layout of the unix file structure
 * know how the unix file tree compares to the Windows or OS X gui file representation
 * know that everything in Unix is a file
@@ -38,6 +37,7 @@ Unix, GNU/Linux, OS X version
 * update the modified date of a file
 * make a directory
 * delete a directory
+* know that a file directory must normally be empty before deleting it
 * cancel a command
 * create a file
 * change directory
@@ -56,6 +56,7 @@ Unix, GNU/Linux, OS X version
 
 ### Intermediate 
 
+* log into the command line
 * know what is meant by the path
 * know what is meant by $PATH
 * know the difference between absolute and relative path
