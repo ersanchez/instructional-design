@@ -2,4 +2,6 @@
 
 ## Audience
 
-Intermediate computer users who need learn basic functions of a unix-like command line interface.
+Intermediate Windows or MacOS users who need learn basic functions of a Unix-like command line interface.
+
+This course will apply to Unix-like operating systems like any of the BSD Unix systems, MacOS, and GNU/Linux.
