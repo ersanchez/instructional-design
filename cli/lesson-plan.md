@@ -12,3 +12,7 @@ Note the software image that will be installed will have the following items pre
 
 * screensaver and power settings turned off
 * update notifications disabled
+
+## Introduction
+
+## Conclusion
