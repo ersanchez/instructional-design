@@ -1,6 +1,8 @@
 # Knowledge, Skills, Attitudes
 
-This document contains the knowledge items, skills, and attitudes required for this course on the basics of amateur radio operation on the Baofent UV-5R handheld tranceiver (radio).
+This document contains the knowledge items, skills, and attitudes required for this course on the basics of amateur radio operation on the Baofeng UV-5R handheld tranceiver (radio).
+
+The following items detail what a person must be able to know and do to use this device.
 
 * what classifications of radio frequency spectrum can this radio use?
 * perform simplex communication
