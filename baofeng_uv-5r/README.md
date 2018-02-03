@@ -6,7 +6,12 @@ This is a basic course on the use of the Baofeng UV-5R handheld transceiver (HT)
 
 ## Audience
 
-This course is intended for beginner licensed amateur radio operators or those who are interested in becoming a licensed amateur radio operator. This course will enable both groups of learners to use this inexpensive handheld transceiver.
+This course is intended for:
+
+* Beginner licensed amateur radio operators who with to receive and transmit on the UV-5R.
+* Those who are not yet licensed but are interested in becoming a licensed amateur radio operator who wish to receive (only) on the UV-5R.
+
+This course will enable both groups of learners to use this inexpensive handheld transceiver.
 
 ## Training Needs
 
