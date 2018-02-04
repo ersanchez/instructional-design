@@ -21,6 +21,8 @@ Given a Baofeng UV-5R HT, change basic settings manually.
 
 ### Psychomotor Objectives
 
+Given a Baofeng UV-5R with a stock configuration:
+
 * activate the alarm
 * activate the strobe light
 * activate scanning mode
@@ -43,9 +45,10 @@ Given a Baofeng UV-5R HT, change basic settings manually.
 
 ### Cognitive Objectives
 
-* what are some accessories that I should consider buying?
-* which display colors are available?
+Given a list of options:
 
+* list some accessories to consider buying
+* recognize which display colors are available (move or delete this one)
 
 ### Affective Objectives
 
