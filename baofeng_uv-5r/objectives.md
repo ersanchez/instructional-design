@@ -2,10 +2,12 @@
 
 At the end of this course the learner will be able to complete the following major tasks on the Baofeng UV-5R handheld transceiver (HT).
 
-1. Given a Baofeng UV-5R HT, communicate using the Baofeng UV-5R over the amateur radio bands open to a USA FCC Technician's License holder and above in the simplex mode
-2. Given a Baofeng UV-5R HT and a list of repeater settings, program repeater settings in the Baofeng UV-5R manually.
-3. Given a Baofeng UV-5R HT, a USB connector cable, and a computer with CHIRP software installed, program repeater settings the Baofeng UV-5R using CHIRP software.
-4. Given a Baofeng UV-5R HT, with repeater settings programmed in, communicate using the Baofeng UV-5R over the amateur radio bands open to a USA FCC Technician's License holder over a repeater system
+1. Given a Baofeng UV-5R HT, change basic settings manually.
+2. Given a Baofeng UV-5R HT, communicate using the Baofeng UV-5R over the amateur radio bands open to a USA FCC Technician's License holder and above in the simplex mode
+3. Given a Baofeng UV-5R HT and a list of repeater settings, program repeater settings in the Baofeng UV-5R manually.
+4. Given a Baofeng UV-5R HT, a USB connector cable, and a computer with CHIRP software installed, change menu settings on the Baofeng UV-5R using CHIRP software.
+5. Given a Baofeng UV-5R HT, a USB connector cable, and a computer with CHIRP software installed, program repeater settings on the Baofeng UV-5R using CHIRP software.
+6. Given a Baofeng UV-5R HT, with repeater settings programmed in, communicate using the Baofeng UV-5R over the amateur radio bands open to a USA FCC Technician's License holder over a repeater system
 
 Each of these terminal objectives are broken down into enabling objectives which cover the cognitive, affective, and psychomotor skills.
 
@@ -15,21 +17,10 @@ Each of these terminal objectives are broken down into enabling objectives which
 
 ## Terminal Objective \#1
 
-Given a Baofeng UV-5R HT, communicate using the Baofeng UV-5R over the amateur radio bands open to a USA FCC Technician's License holder and above in the simplex mode
+Given a Baofeng UV-5R HT, change basic settings manually.
 
 ### Psychomotor Objectives
 
-* perform simplex communication
-* manually enter a frequency
-* manually set the transmitting power
-* switch operating modes
-* switch between display frequencies
-* activate the flashlight
-* transmit
-* attach the belt clip
-* remove the battery
-* attach the battery
-* switch between frequency bands
 * activate the alarm
 * activate the strobe light
 * activate scanning mode
@@ -37,39 +28,59 @@ Given a Baofeng UV-5R HT, communicate using the Baofeng UV-5R over the amateur r
 * adjust the frequency steps used in scanning
 * adjust the display illumination time
 * adjust the transmission timer
-* set the scan mode
-* change the display background color
-* set the power-on message (PONMGS)
-* enable or disable the ability to transmit on a channel-by-channel basis
+* attach the belt clip
+* remove the battery
+* attach the battery
 * attach/remove the antenna
 * switch the feedback voice between Chinese and English
 * reset the device to factory settings
 * quickly navigate to menu settings
-
+* change the display background color
+* switch operating modes
+* switch between display frequencies
+* activate the flashlight
+* attach/remove the antenna
 
 ### Cognitive Objectives
 
 * what are some accessories that I should consider buying?
+* which display colors are available?
+
+
+### Affective Objectives
+
+## Terminal Objective \#2
+
+Given a Baofeng UV-5R HT, communicate using the Baofeng UV-5R over the amateur radio bands open to a USA FCC Technician's License holder and above in the simplex mode
+
+### Psychomotor Objectives
+
+* perform simplex communication
+* manually enter a frequency
+* manually set the transmitting power
+* transmit
+* switch between frequency bands
+
+### Cognitive Objectives
+
 * what are the FCC licensing requirements to transmit on this device?
 * what is the Band Plan?
 * what classifications of radio frequency spectrum can this radio use?
 * what are the different operating modes on this radio?
 * what is VFO?
-* what display colors are available?
 * which transmitting powers are available?
 * what are the requirements for stating license callsigns?
 * what is the proper method of conducting a radio test?
 
 ### Affective Objectives
 
-## Terminal Objective \#2
+## Terminal Objective \#3
 
 Given a Baofeng UV-5R HT and a list of repeater settings, program repeater settings in the Baofeng UV-5R manually.
 
 ### Psychomotor Objectives
 
 * manually enter a frequency
-
 
 ### Cognitive Objectives
 
@@ -80,32 +91,49 @@ Given a Baofeng UV-5R HT and a list of repeater settings, program repeater setti
 
 ### Affective Objectives
 
-## Terminal Objective \#3
+## Terminal Objective \#4
+
+Given a Baofeng UV-5R HT, a USB connector cable, and a computer with CHIRP software installed, change menu settings on the Baofeng UV-5R using CHIRP software.
+
+### Psychomotor Objectives
+
+* connect the radio to a computer with a USB cable
+* set the power-on message (PONMGS)
+* enable or disable the ability to transmit on a channel-by-channel basis
+* set the scan mode
+* change settings using software
+* upload CHIRP profile to the radio
+* switch the feedback voice between Chinese and English
+* reset the device to factory settings
+
+### Cognitive Objectives
+
+* what are the must-have settings for amateur radio operation?
+* when and why would you want to disable transmitting on one channel or all channels?
+
+### Affective Objectives
+
+## Terminal Objective \#5
 
 Given a Baofeng UV-5R HT, a USB connector cable, and a computer with CHIRP software installed, program repeater settings the Baofeng UV-5R using CHIRP software.
 
 ### Psychomotor Objectives
 
 * connect the radio to a computer with a USB cable
-* upload repeater information to the radio
+* upload CHIRP profile to the radio
 * download repeater information
 * set the text visible on the power-on screen
 * remove a channel from scanning list
 * add a channel to scanning list
-* change settings using software
-* attach/remove the antenna
-* switch the feedback voice between Chinese and English
-* reset the device to factory settings
-
+* set the scan mode
 
 ### Cognitive Objectives
 
-* what are the must-have settings for amateur radio operation?
-
+* Why would you want to have a list of channels to scan?
 
 ### Affective Objectives
 
-## Terminal Objective \#4
+## Terminal Objective \#6
 
 Given a Baofeng UV-5R HT, with repeater settings programmed in, communicate using the Baofeng UV-5R over the amateur radio bands open to a USA FCC Technician's License holder over a repeater system
 
@@ -113,7 +141,6 @@ Given a Baofeng UV-5R HT, with repeater settings programmed in, communicate usin
 
 * perform repeater communication
 * transmit
-
 
 ### Cognitive Objectives
 
