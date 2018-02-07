@@ -61,13 +61,13 @@ Given a Baofeng UV-5R with a stock configuration:
 * quickly navigate to menu settings
 * change the display background color
 * switch operating modes
-* switch between display frequencies
+* switch between frequency bands displayed
 
 ### Cognitive Objectives
 
 Given a list of options:
 
-* list some accessories to consider buying
+* identify some accessories to consider buying
 
 ### Affective Objectives
 
@@ -85,8 +85,8 @@ Given a Baofeng UV-5R HT:
 
 * manually enter a frequency
 * manually set the transmitting power
-* perform simplex communication with the instructor
 * switch between frequency bands
+* perform simplex communication with the instructor
 
 ### Cognitive Objectives
 
@@ -109,14 +109,26 @@ Given a Baofeng UV-5R HT and a list of repeater settings, program repeater setti
 
 ### Psychomotor Objectives
 
-* manually enter a frequency
+Given a Baofeng UV-5R on which no channels have been programmed:
+
+* manually enter the transmitting frequency of the repeater
+* manually enter the repeater's frequency offset
+* manually enter the radio's transmit frequency shift
+* manually choose a positive or negative frequency shift
+* manually enter the receiving frequency of the repeater
+* manually enter the CTCSS/DCS codes for transmitting
+* manually enter the CTCSS/DCS codes for receiving
+* manually deactivate the TDR setting
 
 ### Cognitive Objectives
 
-* what is the minimum information that I need to connect to a repeater?
-* what are the different scan modes?
-* what are the must-have settings for amateur radio operation?
-* what are some good sources from which to download repeater information?
+Given a list of options:
+
+* identify the the minimum information values needed to connect to a repeater
+* recall the different scan modes
+* recall good sources from which to download repeater information
+* identify the purpose of the TDR setting
+* identify the purpose of CTCSS/DCS codes
 
 ### Affective Objectives
 
