@@ -62,6 +62,8 @@ Given a Baofeng UV-5R with a stock configuration:
 * change the display background color
 * switch operating modes
 * switch between frequency bands displayed
+* switch the feedback voice between Chinese and English
+* locate the means of resetting the device to factory settings
 
 ### Cognitive Objectives
 
@@ -116,8 +118,8 @@ Given a Baofeng UV-5R on which no channels have been programmed:
 * manually enter the radio's transmit frequency shift
 * manually choose a positive or negative frequency shift
 * manually enter the receiving frequency of the repeater
-* manually enter the CTCSS/DCS codes for transmitting
-* manually enter the CTCSS/DCS codes for receiving
+* manually enter the tone for transmitting
+* manually enter the tone for receiving
 * manually deactivate the TDR setting
 
 ### Cognitive Objectives
@@ -125,10 +127,10 @@ Given a Baofeng UV-5R on which no channels have been programmed:
 Given a list of options:
 
 * identify the the minimum information values needed to connect to a repeater
-* recall the different scan modes
+* recall the purpose of frequency offset
+* recall the purpose of transmit frequency shift
 * recall good sources from which to download repeater information
 * identify the purpose of the TDR setting
-* identify the purpose of CTCSS/DCS codes
 
 ### Affective Objectives
 
@@ -138,39 +140,59 @@ Given a Baofeng UV-5R HT, a USB connector cable, and a computer with CHIRP softw
 
 ### Psychomotor Objectives
 
+Given a computer with a functioning USB port, a USB-to-UV5R cable, and the CHIRP software pre-installed:
+
 * connect the radio to a computer with a USB cable
+* download the stock configuration image from the radio prior to changing anything
 * set the power-on message (PONMGS)
 * enable or disable the ability to transmit on a channel-by-channel basis
 * set the scan mode
-* change settings using software
-* upload CHIRP profile to the radio
+* select channels to include or exclude when scanning
 * switch the feedback voice between Chinese and English
-* reset the device to factory settings
+* set the text visible on the power-on screen
+* set the scan mode
+* locate the means of resetting the device to factory settings
+* upload CHIRP profile to the radio
 
 ### Cognitive Objectives
 
-* what are the must-have settings for amateur radio operation?
-* when and why would you want to disable transmitting on one channel or all channels?
+Given a list of options:
+
+* recall the must-have settings for amateur radio operation?
+* identify the reasy why would you might want to disable transmitting on one channel or all channels?
 
 ### Affective Objectives
 
 ## Terminal Objective \#6
 
-Given a Baofeng UV-5R HT, a USB connector cable, and a computer with CHIRP software installed, program repeater settings the Baofeng UV-5R using CHIRP software.
+Program repeater settings into the UV-5R using CHIRP software.
 
 ### Psychomotor Objectives
 
+Given a Baofeng UV-5R HT, a USB connector cable, a computer with an internet connection and with CHIRP software installed, program repeater settings the Baofeng UV-5R using CHIRP software.
+
 * connect the radio to a computer with a USB cable
+* download repeater information for your locale using an external source
+* enter the transmit frequency
+* enter a name for the frequency
+* enter the Tone Mode
+* enter the Tone value
+* enter the frequency offset direction
+* enter the frequency offset value
+* enter the transmit/receive mode
+* enter the transmit power level
+* select or deselect channel for being skipped during scanning
 * upload CHIRP profile to the radio
-* download repeater information
-* set the text visible on the power-on screen
-* remove a channel from scanning list
-* add a channel to scanning list
-* set the scan mode
 
 ### Cognitive Objectives
 
-* Why would you want to have a list of channels to scan?
+Given a list of options:
+
+* recall the purpose of the tone mode
+* identify the frequency offset for the VHF amateur radio band
+* identify the frequency offset for the UHF amateur radio band
+* recall the requirements for transmitting power value
+* recall why you would want to have a list of channels to scan
 
 ### Affective Objectives
 
