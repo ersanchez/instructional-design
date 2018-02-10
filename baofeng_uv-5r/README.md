@@ -4,6 +4,8 @@ This course is produced partly as a way to practice my instructional design skil
 
 This is a basic course on the use of the Baofeng UV-5R handheld transceiver (HT) for amateur radio (ham) operation.
 
+Since I aim to reach the larget audience possible, I am making this course video based. I am including attribute checklists for any instructor to use as a performance measurement on the psychomotor objectives. Additionally, there are multiple choice exam questions to for performance measurement on the cognitive objectives.
+
 ## Audience
 
 This course is intended for:
