@@ -10,16 +10,16 @@ Since I aim to reach the larget audience possible, I am making this course video
 
 This course is intended for:
 
-* Beginner licensed amateur radio operators who with to receive and transmit on the UV-5R.
+* Beginner licensed amateur radio operators who wish to receive and transmit on the UV-5R.
 * Those who are not yet licensed but are interested in becoming a licensed amateur radio operator who wish to receive (only) on the UV-5R.
 
 This course will enable both groups of learners to use this inexpensive handheld transceiver.
 
 ## Training Needs
 
-Beginning amateur radio operators cannot transmit or receive transmissions on this radio.
+Beginning amateur radio operators experience difficulty transmitting or receiving transmissions on this radio.
 
-People interested in becoming licensed radio operators cannot receive transmissions on this radio.
+People interested in becoming licensed radio operators experience difficulty receiving transmissions on this radio.
 
 This training will enable amateur radio operators or those interested in becoming licensed radio operators to operate the Baofeng UV-5R HT.
 
