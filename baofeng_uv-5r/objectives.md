@@ -183,8 +183,10 @@ Given a computer with a functioning USB port, a USB-to-UV5R cable, and the CHIRP
 * set the timeout timer to 60 seconds
 * set the LED screen background color
 * disable the Roger Beep
-* set the power-on message (PONMGS)
+* change the power-on message (PONMGS)
 * enable or disable the ability to transmit on a channel-by-channel basis
+* enable or disable the ability to transmit on VHF
+* enable or disable the ability to transmit on UHF
 * set the scan mode
 * select channels to include or exclude when scanning
 * switch the feedback voice between Chinese and English
