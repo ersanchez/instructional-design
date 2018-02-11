@@ -4,6 +4,8 @@ This document contains the knowledge items, skills, and attitudes required for t
 
 The following items detail what a person must be able to know and do to use this device.
 
+NOTE: This listing was created before writing the objectives (see: objectives.md). During writing of the learning objectives, additional KSAs were identified that are not included here.
+
 ## Knowledge
 
 * what classifications of radio frequency spectrum can this radio use?
