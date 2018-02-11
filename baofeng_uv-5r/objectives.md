@@ -64,15 +64,17 @@ Given a Baofeng UV-5R with a stock configuration:
 * switch between channel mode (MR) and frequency mode (VFO)
 * switch from line 1 of the LCD display to line 2 and back (A/B)
 * change frequency band from VHF --> UHF and back (BAND)
-* adjust the squelch settings
-* adjust the frequency steps used in scanning
+* adjust the squelch (SQL) settings
+* adjust the frequency step (STEP) used in scanning
 * change the transmitting power (TXP) from HIGH-->LOW (5W to 1W) and back
 * turn off VOX - voice-activated control
-* set the bandwidth (WN) setting to WIDE
-* turn off dual watch
+* set the bandwidth (WN) setting from narrow (NARR) 2.5 kHz to wide (WIDE) 5kHz
+* set the time-out for the display light (ABR) to 10 seconds
+* turn off dual watch (TDR)
+TODO: figure out what transmission time-out time (TOT) is for
 * turn off digital-coded squelch (DCS)
 * turn off continuous tone-coded squelch system (CTCSS)
-* change voice prompt from English to Chinese and back
+* change voice prompt (VOICE) from English to Chinese and back
 * turn off automatic number ID (ANI)
 * turn off DTMFST
 * turn off signal code (S-CODE)
@@ -111,10 +113,15 @@ No license is required only for listening.
 
 Given a Baofeng UV-5R HT:
 
-* manually enter a frequency
+* record the designated transmit/receive frequency given by the instructor
+* switch from channel mode to frequency mode
+* switch to the appropriate frequency band
+* manually enter a frequency using the keypad
 * manually set the transmitting power
-* switch between frequency bands
+* verify the channel is clear
+* start transmitting by pressing and holding the push-to-talk (PTT) button until done transmitting
 * perform simplex communication with the instructor
+* use callsign as required by the Federal Communications Commission (FCC)
 
 ### Cognitive Objectives
 
