@@ -17,11 +17,16 @@ This course will enable both groups of learners to use this inexpensive handheld
 
 ## Training Needs
 
-Beginning amateur radio operators experience difficulty transmitting or receiving transmissions on this radio.
+The product manual that comes with the Boafeng UV-5R does not contain enough information about setting up this device for amateur radio operations.
 
-People interested in becoming licensed radio operators experience difficulty receiving transmissions on this radio.
+As a result, beginning amateur radio operators experience difficulty configuring this device to transmit or receive transmissions.
 
-This training will enable amateur radio operators or those interested in becoming licensed radio operators to operate the Baofeng UV-5R HT.
+People interested in becoming licensed radio operators experience difficulty configuring this device to receive transmissions.
+
+This training will enable:
+
+* licensed amateur radio operators to transmit and receive via simplex and repeater mode.
+* un-licensed radio owners to receive transmissions for listening purposes only.
 
 ## Learner Characteristics
 
