@@ -66,7 +66,7 @@ Given a Baofeng UV-5R with a stock configuration:
 * change frequency band from VHF --> UHF and back (BAND)
 * adjust the squelch (SQL) settings
 * adjust the frequency step (STEP) used in scanning
-* change the transmitting power (TXP) from HIGH-->LOW (5W to 1W) and back
+* change the transmitting power (TXP) from HIGH-->LOW (4W to 1W) and back
 * turn off VOX - voice-activated control
 * set the bandwidth (WN) setting from narrow (NARR) 2.5 kHz to wide (WIDE) 5kHz
 * set the time-out for the display light (ABR) to 10 seconds
@@ -224,7 +224,7 @@ Given a Baofeng UV-5R HT, a USB connector cable, a computer with an internet con
 * enter the frequency offset direction
 * enter the frequency offset value
 * enter the transmit/receive mode
-* enter the transmit power level
+* enter the transmit power level (High = 4W, Low = 1W)
 * select or deselect channel for being skipped during scanning
 * upload CHIRP profile to the radio
 
