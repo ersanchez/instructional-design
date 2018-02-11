@@ -25,8 +25,8 @@ People interested in becoming licensed radio operators experience difficulty con
 
 This training will enable:
 
-* licensed amateur radio operators to transmit and receive via simplex and repeater mode.
-* un-licensed radio owners to receive transmissions for listening purposes only.
+* licensed amateur radio operators to configure the UV-5R manually or with a computer using the CHIRP software to transmit and receive via simplex and repeater mode.
+* un-licensed radio owners to configure the UV-5R manually or with a computer using the CHIRP software to receive transmissions for listening purposes only.
 
 ## Learner Characteristics
 
