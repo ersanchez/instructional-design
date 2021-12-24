@@ -6,5 +6,10 @@ The following items detail what the learner must be able to know and do to use S
 
 ## Knowledge
 
+* 3-2-1 backup principle
+* benefits of free software
+* risks of using proprietary only synchronization solutions
+* install software on a device
+* launching an application from the command line
 
 ## Skills
