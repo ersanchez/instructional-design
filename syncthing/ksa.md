@@ -15,10 +15,11 @@ The following items detail what the learner must be able to know and do to use S
 * how Synchting actually synchronizes files (overview)
 * what not to do within Syncthing
 * best practices
+* know which devices are supported by Syncthing
 
 ## Skills
 
-* install software on a device
+* install Syncthing on a device
 * launching an application from the command line
 * create a bookmark in a web browser
 * type a URL with a port number in a web browser
@@ -29,8 +30,14 @@ The following items detail what the learner must be able to know and do to use S
 * share a directory/folder
 * safely stop sharing a directory/folder
 * resolve file synchronization conflicts
-* update software
-* configure Syncthing to start at boot or start upon loggin in
+* update Syncthing 
+* configure Syncthing to start at boot or start upon logging in
 * set a directory/folder to be a reference copy
 * set a directory/folder to be send-only 
 * set a directory/folder to be receive only
+
+## Attitudes
+
+* curiosity about how software works
+* desire to move away from proprietary synchronizing solutions
+* willingness to troubleshoot when things go wrong
