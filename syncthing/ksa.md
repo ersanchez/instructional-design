@@ -24,6 +24,7 @@ The following items detail what the learner must be able to know and do to use S
 * folder strategy
 * what information gets shared with Syncthing in anonymous usage reporting
 * benefits of recording Device IDs and Folder IDs
+* know what happens if a change happens when a remote device is offline
 
 ## Skills
 
