@@ -9,13 +9,21 @@ The following items detail what the learner must be able to know and do to use S
 * 3-2-1 backup principle
 * benefits of free software
 * risks of using proprietary only synchronization solutions
-* time delays associated with Syncthing
+* know the time delays associated with Syncthing
 * what happens when Syncthing first runs
 * how Syncthing locates other devices
-* how Synchting actually synchronizes files (overview)
+* how Syncthing actually synchronizes files (overview)
 * what not to do within Syncthing
-* best practices
 * know which devices are supported by Syncthing
+* minimizing cellular data use
+* things you should not sync with Syncthing
+* Syncthing troubleshooting
+* when to use a 'send only' folder
+* when to use a 'receive only' folder
+* things to check **before** accepting a connection from another device
+* folder strategy
+* what information gets shared with Syncthing in anonymous usage reporting
+* benefits of recording Device IDs and Folder IDs
 
 ## Skills
 
@@ -35,6 +43,14 @@ The following items detail what the learner must be able to know and do to use S
 * set a directory/folder to be a reference copy
 * set a directory/folder to be send-only 
 * set a directory/folder to be receive only
+* access the web GUI of a remote device
+* locate a device's Syncthing ID
+* configure device to lessen the use of cellular data
+* safely relocated a folder managed by Syncthing
+* create a browser shortcut for Syncthing GUI
+* change the GUI theme
+* Set a GUI password
+* set incoming/outgoing rate limits
 
 ## Attitudes
 
